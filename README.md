@@ -16,7 +16,7 @@ git://git.suckless.org/st
 
 ### Installation
 
-Edit config.mk to match your local setup. This fork installs into the following
+Edit `config.mk` to match your local setup. This fork installs into the following
 namespace.
 
 ```

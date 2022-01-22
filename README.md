@@ -43,6 +43,10 @@ See the man page for additional details.
 Move the generated executable (`st`) to a directory in path (`/usr/local/bin`,
 `~/.local/bin`, ...).
 
+## Appearance
+
+![everforest.png](Captures/everforest.png)
+
 ##### Credits
 
 Based on Aurélien APTEL <aurelien.aptel@gmail.com> bt source code.

@@ -1,6 +1,6 @@
 # Simple Terminal: The Fork
 
-**st** is a simple terminal emulator for X which sucks less.\
+**st** is a simple terminal emulator for X which sucks less.
 
 Cloned from
 
